@@ -21,8 +21,3 @@ Then it should be running:
 wget localhost:8080
 ```
 
-# Deployng on k8s
-
-```
-cdk-cats-nodeport.yaml
-```
